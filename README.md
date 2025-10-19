@@ -12,4 +12,4 @@ This project presents a systematic comparison of traditional machine learning an
 The interpretation of CTG signals is a highly skilled task that suffers from significant subjectivity, which can lead to critical clinical errors such as missing signs of genuine fetal distress (false negatives) or performing unnecessary surgical interventions (false positives). This project addresses this challenge by developing a reliable and objective classification model.
 
 ## Dataset
-The project uses the "Fetal Health Classification" dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Fetal+Health+Classification). It contains 2,126 instances with 21 numerical features extracted from CTG scans by expert obstetricians. A key challenge identified in the data was a significant
+The project uses the "Fetal Health Classification" dataset from the [UCI Machine Learning Repository](https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification). It contains 2,126 instances with 21 numerical features extracted from CTG scans by expert obstetricians. A key challenge identified in the data was a significant
